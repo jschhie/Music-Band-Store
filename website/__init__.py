@@ -73,17 +73,17 @@ def create_database(app):
             
             merch_prices = ["$19.99", "$21.99", "$28.25", "$28.99", "$31.99", "$31.99"]
 
-            img_urls = ["https://live.staticflickr.com/65535/52726666648_ba2e880a99_w.jpg",
-                        "https://live.staticflickr.com/65535/52726666373_7da75acb45_w.jpg",
-                        "https://live.staticflickr.com/65535/52726600750_3946190a20_w.jpg",
-                        "https://live.staticflickr.com/65535/52726186301_80d0c6f6c5_n.jpg",
-                        "https://live.staticflickr.com/65535/52726627658_dc143b07b2_o.jpg",
-                        "https://live.staticflickr.com/65535/52726147106_704a98479e_o.jpg"]
+            img_urls = ["https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/young.jpg?raw=true",
+                        "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/wings.jpg?raw=true",
+                        "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/walk-alone.jpg?raw=true",
+                        "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/love.jpg?raw=true",
+                        "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/white-hood.JPG?raw=true",
+                        "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/black-hood.JPG?raw=true"]
             
-            alt_img_urls = ["https://live.staticflickr.com/65535/53027712092_2dd3506499_w.jpg",
-                            "https://live.staticflickr.com/65535/53028707455_6bd6c80421_o.jpg",
-                            "https://live.staticflickr.com/65535/53028496734_6610398588_w.jpg",
-                            "https://live.staticflickr.com/65535/53028499394_57eeb759b9_w.jpg", 
+            alt_img_urls = ["https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/young-2.jpg?raw=true",
+                            "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/wings-2.jpg?raw=true",
+                            "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/walk-alone-2.jpg?raw=true",
+                            "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/love-2.jpg?raw=true", 
                             "None",
                             "None"]
             
