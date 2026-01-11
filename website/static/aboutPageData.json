@@ -1,60 +1,60 @@
 {
   "gallery": [
     {
-      "src": "https://live.staticflickr.com/65535/52726177441_42743d38ed_o.png",
+      "src": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/about-1.png?raw=true",
       "alt": "BTS | Spring Day Concept Group Photo I"
     },
 
     {
-      "src": "https://live.staticflickr.com/65535/52992400583_ec5cbcd797.jpg",
+      "src": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/about-2.png?raw=true",
       "alt": "BTS | Spring Day Concept Photo: Jimin"
     },
 
     {
-      "src": "https://live.staticflickr.com/65535/52992080204_85b1838acc.jpg",
+      "src": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/about-3.png?raw=true",
       "alt": "BTS | Spring Day Concept Group Photo II"
     }
   ],
 
   "members": [
     {
-      "bioSrc": "https://live.staticflickr.com/65535/53019080418_34873e2f1c_o.jpg",
+      "bioSrc": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/jimin.JPG?raw=true",
       "name": "Jimin",
       "role": "Lead vocalist"
     },
 
     {
-      "bioSrc": "https://live.staticflickr.com/65535/53019080498_bbac2951d3_o.jpg",
+      "bioSrc": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/jk.JPG?raw=true",
       "name": "Jungkook",
       "role": "Main vocals"
     },
 
     {
-      "bioSrc": "https://live.staticflickr.com/65535/53019080508_fd3ed1f113_o.jpg",
+      "bioSrc": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/v.JPG?raw=true",
       "name": "V",
       "role": "Vocals"
     },
 
     {
-      "bioSrc": "https://live.staticflickr.com/65535/53018597866_b8d202b5fd_o.jpg",
+      "bioSrc": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/jhope.JPG?raw=true",
       "name": "J-Hope",
       "role": "Rapper"
     },
 
     {
-      "bioSrc": "https://live.staticflickr.com/65535/53018597876_a41e6d1ff4_o.jpg",
+      "bioSrc": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/rm.JPG?raw=true",
       "name": "RM",
       "role": "Main rapper"
     },
     
     {
-      "bioSrc": "https://live.staticflickr.com/65535/53018597861_7d3a8a7675_o.jpg",
+      "bioSrc": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/suga.JPG?raw=true",
       "name": "SUGA",
       "role": "Lead rapper"
     },
 
     {
-      "bioSrc": "https://live.staticflickr.com/65535/53018597871_80456d465b_o.jpg",
+      "bioSrc": "https://github.com/jschhie/Music-Band-Store/blob/main/website/static/images/jin.JPG?raw=true",
       "name": "Jin",
       "role": "Vocals"
     }
